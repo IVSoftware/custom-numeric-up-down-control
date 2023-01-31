@@ -25,8 +25,12 @@ Then you can just override the methods that implement the value up-down at the s
             }
             else
             {
-                // Call Default
-                base.UpButton();
+                base.DownButton();
             }
         }
     }
+
+[![screenshot][1]][1]
+
+
+  [1]: https://i.stack.imgur.com/szRm8.png
